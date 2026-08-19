@@ -1,18 +1,18 @@
 {
     "attribute": {
-        "additional": "",
-        "age": "",
-        "birth": "",
-        "constellation": "",
-        "contact": "",
-        "gender": "",
-        "goal": "assistant",
-        "hobby": "",
-        "job": "assistant",
-        "name": "Feifei",
-        "position": "companion",
-        "voice": "abin",
-        "zodiac": ""
+        "additional": "发呆",
+        "age": "成年",
+        "birth": "Github",
+        "constellation": "水瓶座",
+        "contact": "qq467665317",
+        "gender": "男",
+        "goal": "工作协助",
+        "hobby": "发呆",
+        "job": "助理",
+        "name": "Fay",
+        "position": "陪伴",
+        "voice": "zhitian_emo",
+        "zodiac": "蛇"
     },
     "interact": {
         "QnA": "qa.csv",
@@ -24,7 +24,7 @@
             "indifferent": 10,
             "join": 10
         },
-        "playSound": false,
+        "playSound": true,
         "visualization": false
     },
     "items": [],
@@ -36,7 +36,7 @@
         "automatic_player_status": false,
         "automatic_player_url": "http://127.0.0.1:6000",
         "liveRoom": {
-            "enabled": false,
+            "enabled": true,
             "url": ""
         },
         "record": {
